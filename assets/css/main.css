@@ -2431,3 +2431,121 @@ input, select, textarea {
 					}
 
 	}
+	/*Newly added*/
+	body {
+		font-family: Arial, sans-serif;
+		margin: 0;
+		padding: 20px;
+		background-color: #f4f4f4;
+	}
+
+	h2 {
+		text-align: center;
+		margin-bottom: 40px;
+	}
+
+	.project {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		margin-bottom: 40px;
+		gap: 20px;
+		background-color: white; /* Container background color */
+		border: 1px solid #ddd; /* Border around each project */
+		border-radius: 8px; /* Rounded corners for the container */
+		padding: 20px; /* Padding inside the container */
+		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+		flex-direction: column; /* Always stack image and text vertically */
+	}
+
+	.image-container {
+		width: 100%; /* Full width */
+		display: flex;
+		justify-content: center; /* Ensure image is centered */
+		margin-bottom: 15px; /* Space between image and text */
+	}
+
+	.text-container {
+		text-align: center; /* Center text for better mobile viewing */
+	}
+
+	.image-container img {
+		max-width: 100%; /* Limit image width to not touch the edges */
+		height: auto;
+		border-radius: 8px; /* Rounded corners for aesthetic */
+	}
+
+	.text-container h3 {
+		margin-top: 0;
+		font-size: 1.2rem; /* Slightly larger font size */
+	}
+
+	.text-container p {
+		font-size: 1rem;
+		color: #555;
+		padding: 0 10px; /* Padding around text */
+	}
+
+	/*.container {
+		width: 100%;*/ /* Use the full width of the viewport */
+		/*max-width: 1200px;*/ /* Maximum width of the content area */
+		/*margin: 0 auto;*/ /* Centering the container horizontally */
+		/*padding: 20px;*/ /* Padding around the content inside the container */
+		/*box-sizing: border-box;*/ /* Include padding in the width calculation */
+	/*}
+
+	.row {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;*/ /* Center flex items on the line */
+		/*align-items: flex-start;*/ /* Align items from the start of the cross axis */
+		/*gap: 20px;*/ /* Space between each card */
+	/*}
+
+	.col {
+		flex: 1 1 300px;*/ /* Allow flex items to grow and shrink but not be smaller than 300px */
+		/*display: flex;
+		flex-direction: column;
+		align-items: center;*/ /* Center align the content of the column */
+		/*box-sizing: border-box;*/ /* Include padding and border in the width calculation */
+	/*}
+
+	.box {
+		width: 100%;*/ /* Full width of the column */
+		/*padding: 10px;
+		box-shadow: 0 4px 8px rgba(0,0,0,0.1);*/ /* Subtle shadow for depth */
+		/*background: #fff;*/ /* White background */
+		/*border-radius: 10px;*/ /* Rounded corners */
+	/*}*/
+	@media screen and (min-width: 769px) {
+		.project {
+			max-width: 90%; /* Horizontal layout on desktop */
+		}
+
+		.image-container {
+			flex: 1;
+			margin-bottom: 0; /* No bottom margin on desktop */
+		}
+
+		.text-container {
+			flex: 2;
+			text-align: left; /* Align text left on desktop */
+			padding: 0 20px;
+		}
+
+		.project.right {
+			flex-direction: row-reverse; /* Image on the right, text on the left */
+		}
+
+		.project.left {
+			flex-direction: row; /* Image on the left, text on the right */
+		}
+		/*.row {*/
+			/*flex-direction: column;*/ /* Stack the columns vertically on small screens */
+		/*}
+
+		.col {
+			width: 100%;*/ /* Full width columns on small screens */
+		/*}*/
+	}
+

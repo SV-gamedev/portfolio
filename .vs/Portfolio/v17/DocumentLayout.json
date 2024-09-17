@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\personaldoc\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\NewSampleportfoliotemplete\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\NewSampleportfoliotemplete\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\pic00.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\pic00.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\BlankImage.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\BlankImage.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\c-sharp_6132221.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\c-sharp_6132221.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\Pushitbunnylogo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\Pushitbunnylogo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\Slapgame.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\Slapgame.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\Your paragraph text.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\Your paragraph text.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\pic04.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\pic04.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\pic05.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\pic05.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\pic06.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\pic06.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\pic02.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\pic02.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\personaldoc\\Portfolio\\images\\pic01.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\pic01.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 394,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\NewSampleportfoliotemplete\\styles.css",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\NewSampleportfoliotemplete\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-17T11:48:31.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\NewSampleportfoliotemplete\\index.html",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\NewSampleportfoliotemplete\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-17T11:38:56.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.css",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "assets\\css\\main.css",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\assets\\css\\main.css",
+              "RelativeToolTip": "assets\\css\\main.css",
+              "ViewState": "AQIAANYJAAAAAAAAAAAAANEJAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-16T12:50:26.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlankImage.jpg -  [English (United Kingdom)] - Bitmap [3000x1688, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\BlankImage.jpg",
+              "RelativeDocumentMoniker": "images\\BlankImage.jpg",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\BlankImage.jpg -  [English (United Kingdom)] - Bitmap [3000x1688, 24 bit, JPG]",
+              "RelativeToolTip": "images\\BlankImage.jpg -  [English (United Kingdom)] - Bitmap [3000x1688, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:35:42.732Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [3000x1688, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "c-sharp_6132221.png -  [English (United Kingdom)] - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\c-sharp_6132221.png",
+              "RelativeDocumentMoniker": "images\\c-sharp_6132221.png",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\c-sharp_6132221.png -  [English (United Kingdom)] - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "images\\c-sharp_6132221.png -  [English (United Kingdom)] - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:35:41.29Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [512x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pushitbunnylogo.png -  [English (United Kingdom)] - PNG [240x240, 24 bit, PNG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\Pushitbunnylogo.png",
+              "RelativeDocumentMoniker": "images\\Pushitbunnylogo.png",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\Pushitbunnylogo.png -  [English (United Kingdom)] - PNG [240x240, 24 bit, PNG]",
+              "RelativeToolTip": "images\\Pushitbunnylogo.png -  [English (United Kingdom)] - PNG [240x240, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:35:31.351Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [240x240, 24 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slapgame.png -  [English (United Kingdom)] - PNG [1920x1080, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\Slapgame.png",
+              "RelativeDocumentMoniker": "images\\Slapgame.png",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\Slapgame.png -  [English (United Kingdom)] - PNG [1920x1080, 32 bit, PNG]",
+              "RelativeToolTip": "images\\Slapgame.png -  [English (United Kingdom)] - PNG [1920x1080, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:35:29.098Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [1920x1080, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Your paragraph text.png -  [English (United Kingdom)] - PNG [6912x3456, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\Your paragraph text.png",
+              "RelativeDocumentMoniker": "images\\Your paragraph text.png",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\Your paragraph text.png -  [English (United Kingdom)] - PNG [6912x3456, 32 bit, PNG]",
+              "RelativeToolTip": "images\\Your paragraph text.png -  [English (United Kingdom)] - PNG [6912x3456, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:35:13.535Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [6912x3456, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pic04.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\pic04.jpg",
+              "RelativeDocumentMoniker": "images\\pic04.jpg",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\pic04.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "RelativeToolTip": "images\\pic04.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:34:53.09Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pic05.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\pic05.jpg",
+              "RelativeDocumentMoniker": "images\\pic05.jpg",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\pic05.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "RelativeToolTip": "images\\pic05.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:34:52.101Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pic06.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\pic06.jpg",
+              "RelativeDocumentMoniker": "images\\pic06.jpg",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\pic06.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "RelativeToolTip": "images\\pic06.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:34:50.704Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pic02.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\pic02.jpg",
+              "RelativeDocumentMoniker": "images\\pic02.jpg",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\pic02.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "RelativeToolTip": "images\\pic02.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:34:46.098Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "pic01.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\pic01.jpg",
+              "RelativeDocumentMoniker": "images\\pic01.jpg",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\pic01.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "RelativeToolTip": "images\\pic01.jpg -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:34:44.753Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [384x269, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pic00.jpg -  [English (United Kingdom)] - Bitmap [326x326, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\images\\pic00.jpg",
+              "RelativeDocumentMoniker": "images\\pic00.jpg",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\images\\pic00.jpg -  [English (United Kingdom)] - Bitmap [326x326, 24 bit, JPG]",
+              "RelativeToolTip": "images\\pic00.jpg -  [English (United Kingdom)] - Bitmap [326x326, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T11:34:41.107Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [326x326, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\personaldoc\\Portfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\personaldoc\\Portfolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-16T11:26:57.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
